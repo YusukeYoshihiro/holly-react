@@ -6,8 +6,8 @@ export default (props) => {
   const links = [
     { text: "Contact", href: "/contact" },
     { text: "About Me", href: "/about" },
-    { text: "Projects", href: "/faqs" },
-    { text: "My Skills", href: "/support" },
+    { text: "Projects", href: "/projects" },
+    { text: "My Skills", href: "/MySkills" },
   ];
 
   const classNames = classnames(

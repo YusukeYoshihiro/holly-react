@@ -1,7 +1,7 @@
 import React from 'react';
 import Layout from '../layouts/index';
 
-const SupportPage = () => {
+const MySkills = () => {
   return (
     <Layout>
       <article className="entry">
@@ -41,4 +41,4 @@ const SupportPage = () => {
   );
 };
 
-export default SupportPage;
+export default MySkills;
