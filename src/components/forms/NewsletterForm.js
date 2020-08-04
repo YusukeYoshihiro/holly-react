@@ -16,7 +16,7 @@ class NewsletterForm extends Component {
     return (
       <form className={classNames}>
         <div className="control control-expanded">
-          <input className="input" type="email" name="email" placeholder="Your best email&hellip;" />
+          <input className="input" type="email" name="email" placeholder="E-mail adress here&hellip;" />
         </div>
         <div className="control">
           <button className="button button-primary button-block button-shadow" type="submit">{submit}</button>

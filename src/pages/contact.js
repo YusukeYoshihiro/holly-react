@@ -1,6 +1,7 @@
 import React from 'react';
 import Layout from '../layouts/index';
 
+
 const ContactPage = () => {
   return (
     <Layout>
@@ -14,8 +15,17 @@ const ContactPage = () => {
                 </header>
 
                 <div className="entry-body">
-                  <p>Add your contact information here.</p>
+                  <i className="glyphicon glyphicon-envelope"></i><a href="yusuke.10.25.@gmailcom"><p>yusuke.10.25.@gmail.com</p></a><br/>
+                  <i className="fas fa-phone"></i><a href="6043414851"><p>604-341-4851</p></a><br/>
+                  <i className="fas fa-map-marker-alt"></i><p>550 Pacific Street, Vancouver, BC, V6Z 3E6</p>
+
+                  
+                  
                 </div>
+
+                
+                
+
               </div>
             </div>
           </div>

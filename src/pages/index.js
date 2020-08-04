@@ -7,8 +7,8 @@ const IndexPage = () => {
   return (
     <Layout>
       <Hero
-        title="Landing template for startups"
-        content="Our landing page template works for all the devices, so you only have to setup it once, and get beautiful results forever."
+        title="Hi, I'm YUSUKE YOSHIHIR0"
+        content="I'm a Front-End-Developer besed in Vancouver."
         illustration={HeroIllustration}
       />
     </Layout>

@@ -167,9 +167,9 @@ const HeroIllustration = () => {
             </filter>
           </defs>
           <g fill="none" fillRule="evenodd">
-            <rect width="800" height="450" rx="2" fill="#FFF" filter="url(#dropshadow-1)"
-            />
-            <rect width="800" height="450" rx="2" fill="#FFF" />
+          <rect width="800" height="450" rx="2" fill="#FFF" filter="url(#dropshadow-1)"
+          />
+          <rect width="800" height="450" rx="2" fill="#FFF" />
             <path fill="#DDE7EF" d="M0 32h800v1H0z" />
             <circle fill="url(#browser-a)" cx="24" cy="16" r="4" />
             <circle fill="url(#browser-b)" cx="40" cy="16" r="4" />

@@ -10,28 +10,27 @@ const AboutPage = () => {
             <div className="entry-content">
               <div className="container-sm">
                 <header className="entry-header">
-                  <h1 className="entry-title">About</h1>
+                  <h1 className="entry-title">About Me</h1>
                 </header>
 
                 <div className="entry-body">
                   <p>
-                    Holly is a free HTML/CSS landing page designed and developed by
-                    @pacovitiello and @DavidePacilio!
-                </p>
+                    I'm YUSUKE YOSHIHIRO from Japan.
+                <br/>
+                A Front-End-Developper based in Vancouver.</p>
                   <p>
-                    Holly is suitable for all kind of startups, it's easily
-                    customizable, and it's downloadable for personal and commercial
-                    use.
+                  My terget:
+                  To get involved in practical team projects in tech companies using framework to handle office software applications, e-commerce’s web applications or matching applications as a front-end-developer.
                 </p>
                   <hr />
-                  <p>Live demo: <a href="https://demo.cruip.com/holly/">https://demo.cruip.com/holly/</a></p>
+                  <p>Linked in: <a href="https://www.linkedin.com/in/yusuke-yoshihiro-ab46491b2">https://www.linkedin.com/in/yusuke-yoshihiro-ab46491b2</a></p>
                   <hr />
-                  <p>This template is distributed under the MIT License.</p>
+                  <h2>Let me join your field!</h2>
                 </div>
               </div>
             </div>
             <div className="entry-media">
-              <img src="https://placehold.it/420x640" alt="" />
+              <img src="" alt="" />
             </div>
           </div>
         </div>
